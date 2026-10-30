@@ -1,0 +1,60 @@
+{
+  "id": "/s/rotor/",
+  "name": "Ротор",
+  "short_name": "Ротор",
+  "description": "Автокомплекс в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/rotor/",
+  "scope": "/s/rotor/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/rotor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/rotor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/rotor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/rotor/book",
+      "icons": [
+        {
+          "src": "/s/rotor/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/rotor/my",
+      "icons": [
+        {
+          "src": "/s/rotor/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

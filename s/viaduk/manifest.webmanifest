@@ -1,0 +1,60 @@
+{
+  "id": "/s/viaduk/",
+  "name": "ВИАДУК",
+  "short_name": "ВИАДУК",
+  "description": "Автоцентр: легковые, грузовые авто и спецтехника",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/viaduk/",
+  "scope": "/s/viaduk/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/viaduk/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/viaduk/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/viaduk/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/viaduk/book",
+      "icons": [
+        {
+          "src": "/s/viaduk/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/viaduk/my",
+      "icons": [
+        {
+          "src": "/s/viaduk/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

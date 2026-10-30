@@ -1,0 +1,60 @@
+{
+  "id": "/s/tank-bars/",
+  "name": "Tank Барс",
+  "short_name": "Tank Барс",
+  "description": "Официальный дилер в г. Омске в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/tank-bars/",
+  "scope": "/s/tank-bars/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/tank-bars/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/tank-bars/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/tank-bars/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/tank-bars/book",
+      "icons": [
+        {
+          "src": "/s/tank-bars/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/tank-bars/my",
+      "icons": [
+        {
+          "src": "/s/tank-bars/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

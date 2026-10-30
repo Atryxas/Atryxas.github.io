@@ -1,0 +1,60 @@
+{
+  "id": "/s/subaru-klub/",
+  "name": "Субару-клуб",
+  "short_name": "Субару-клуб",
+  "description": "Автоцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/subaru-klub/",
+  "scope": "/s/subaru-klub/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/subaru-klub/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/subaru-klub/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/subaru-klub/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/subaru-klub/book",
+      "icons": [
+        {
+          "src": "/s/subaru-klub/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/subaru-klub/my",
+      "icons": [
+        {
+          "src": "/s/subaru-klub/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/4-kolesa/",
+  "name": "4 колеса",
+  "short_name": "4 колеса",
+  "description": "Торгово-сервисный центр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/4-kolesa/",
+  "scope": "/s/4-kolesa/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/4-kolesa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/4-kolesa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/4-kolesa/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/4-kolesa/book",
+      "icons": [
+        {
+          "src": "/s/4-kolesa/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/4-kolesa/my",
+      "icons": [
+        {
+          "src": "/s/4-kolesa/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

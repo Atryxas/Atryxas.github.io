@@ -1,0 +1,60 @@
+{
+  "id": "/s/nik/",
+  "name": "Ник",
+  "short_name": "Ник",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/nik/",
+  "scope": "/s/nik/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/nik/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/nik/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/nik/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/nik/book",
+      "icons": [
+        {
+          "src": "/s/nik/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/nik/my",
+      "icons": [
+        {
+          "src": "/s/nik/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

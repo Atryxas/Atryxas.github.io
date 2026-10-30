@@ -1,0 +1,60 @@
+{
+  "id": "/s/titan-avto/",
+  "name": "Титан-авто",
+  "short_name": "Титан-авто",
+  "description": "Авторизованный сервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/titan-avto/",
+  "scope": "/s/titan-avto/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/titan-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/titan-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/titan-avto/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/titan-avto/book",
+      "icons": [
+        {
+          "src": "/s/titan-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/titan-avto/my",
+      "icons": [
+        {
+          "src": "/s/titan-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

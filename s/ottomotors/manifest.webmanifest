@@ -1,0 +1,60 @@
+{
+  "id": "/s/ottomotors/",
+  "name": "Otto motors",
+  "short_name": "Otto motors",
+  "description": "Сложные неисправности ДВС и автоэлектрики",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/ottomotors/",
+  "scope": "/s/ottomotors/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/ottomotors/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/ottomotors/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/ottomotors/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/ottomotors/book",
+      "icons": [
+        {
+          "src": "/s/ottomotors/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/ottomotors/my",
+      "icons": [
+        {
+          "src": "/s/ottomotors/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

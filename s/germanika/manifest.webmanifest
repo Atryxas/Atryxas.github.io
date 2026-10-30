@@ -1,0 +1,60 @@
+{
+  "id": "/s/germanika/",
+  "name": "Германика",
+  "short_name": "Германика",
+  "description": "Автотехцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/germanika/",
+  "scope": "/s/germanika/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/germanika/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/germanika/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/germanika/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/germanika/book",
+      "icons": [
+        {
+          "src": "/s/germanika/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/germanika/my",
+      "icons": [
+        {
+          "src": "/s/germanika/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/avtoservis-plus/",
+  "name": "Автосервис+",
+  "short_name": "Автосервис+",
+  "description": "Компания по продаже автозапчастей и ремонту автомобилей в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/avtoservis-plus/",
+  "scope": "/s/avtoservis-plus/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/avtoservis-plus/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtoservis-plus/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtoservis-plus/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/avtoservis-plus/book",
+      "icons": [
+        {
+          "src": "/s/avtoservis-plus/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/avtoservis-plus/my",
+      "icons": [
+        {
+          "src": "/s/avtoservis-plus/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

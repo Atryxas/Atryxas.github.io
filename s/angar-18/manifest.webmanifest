@@ -1,0 +1,60 @@
+{
+  "id": "/s/angar-18/",
+  "name": "Ангар 18",
+  "short_name": "Ангар 18",
+  "description": "Производственно-коммерческая фирма в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/angar-18/",
+  "scope": "/s/angar-18/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/angar-18/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/angar-18/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/angar-18/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/angar-18/book",
+      "icons": [
+        {
+          "src": "/s/angar-18/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/angar-18/my",
+      "icons": [
+        {
+          "src": "/s/angar-18/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

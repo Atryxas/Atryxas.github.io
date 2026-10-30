@@ -1,0 +1,60 @@
+{
+  "id": "/s/vash-servis/",
+  "name": "Ваш сервис",
+  "short_name": "Ваш сервис",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/vash-servis/",
+  "scope": "/s/vash-servis/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/vash-servis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/vash-servis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/vash-servis/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/vash-servis/book",
+      "icons": [
+        {
+          "src": "/s/vash-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/vash-servis/my",
+      "icons": [
+        {
+          "src": "/s/vash-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

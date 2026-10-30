@@ -1,0 +1,60 @@
+{
+  "id": "/s/promobil/",
+  "name": "Промобиль",
+  "short_name": "Промобиль",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/promobil/",
+  "scope": "/s/promobil/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/promobil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/promobil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/promobil/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/promobil/book",
+      "icons": [
+        {
+          "src": "/s/promobil/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/promobil/my",
+      "icons": [
+        {
+          "src": "/s/promobil/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

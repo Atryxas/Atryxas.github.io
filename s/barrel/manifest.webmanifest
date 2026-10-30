@@ -1,0 +1,60 @@
+{
+  "id": "/s/barrel/",
+  "name": "Barrel",
+  "short_name": "Barrel",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/barrel/",
+  "scope": "/s/barrel/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/barrel/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/barrel/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/barrel/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/barrel/book",
+      "icons": [
+        {
+          "src": "/s/barrel/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/barrel/my",
+      "icons": [
+        {
+          "src": "/s/barrel/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

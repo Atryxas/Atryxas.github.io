@@ -1,0 +1,60 @@
+{
+  "id": "/s/avtodiagnoz/",
+  "name": "АвтоДиагноZ",
+  "short_name": "АвтоДиагноZ",
+  "description": "Автосервис по диагностике двигателей внутреннего сгорания и ремонту автоэлектрики в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/avtodiagnoz/",
+  "scope": "/s/avtodiagnoz/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/avtodiagnoz/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtodiagnoz/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtodiagnoz/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/avtodiagnoz/book",
+      "icons": [
+        {
+          "src": "/s/avtodiagnoz/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/avtodiagnoz/my",
+      "icons": [
+        {
+          "src": "/s/avtodiagnoz/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

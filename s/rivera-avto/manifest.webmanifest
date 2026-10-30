@@ -1,0 +1,60 @@
+{
+  "id": "/s/rivera-avto/",
+  "name": "Ривьера-Авто",
+  "short_name": "Ривьера-Авто",
+  "description": "Автоцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/rivera-avto/",
+  "scope": "/s/rivera-avto/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/rivera-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/rivera-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/rivera-avto/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/rivera-avto/book",
+      "icons": [
+        {
+          "src": "/s/rivera-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/rivera-avto/my",
+      "icons": [
+        {
+          "src": "/s/rivera-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

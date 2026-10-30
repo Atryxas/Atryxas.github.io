@@ -1,0 +1,60 @@
+{
+  "id": "/s/kitayskiy-tank-3/",
+  "name": "Китайский танк",
+  "short_name": "Китайский танк",
+  "description": "Автокомплекс запчастей и ремонта для китайских автомобилей в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/kitayskiy-tank-3/",
+  "scope": "/s/kitayskiy-tank-3/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/kitayskiy-tank-3/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/kitayskiy-tank-3/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/kitayskiy-tank-3/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/kitayskiy-tank-3/book",
+      "icons": [
+        {
+          "src": "/s/kitayskiy-tank-3/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/kitayskiy-tank-3/my",
+      "icons": [
+        {
+          "src": "/s/kitayskiy-tank-3/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

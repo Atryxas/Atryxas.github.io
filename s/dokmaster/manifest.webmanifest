@@ -1,0 +1,60 @@
+{
+  "id": "/s/dokmaster/",
+  "name": "Докмастер",
+  "short_name": "Докмастер",
+  "description": "СТО в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/dokmaster/",
+  "scope": "/s/dokmaster/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/dokmaster/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/dokmaster/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/dokmaster/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/dokmaster/book",
+      "icons": [
+        {
+          "src": "/s/dokmaster/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/dokmaster/my",
+      "icons": [
+        {
+          "src": "/s/dokmaster/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

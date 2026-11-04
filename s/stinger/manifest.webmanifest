@@ -1,0 +1,60 @@
+{
+  "id": "/s/stinger/",
+  "name": "Стингер",
+  "short_name": "Стингер",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/stinger/",
+  "scope": "/s/stinger/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/stinger/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/stinger/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/stinger/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/stinger/book",
+      "icons": [
+        {
+          "src": "/s/stinger/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/stinger/my",
+      "icons": [
+        {
+          "src": "/s/stinger/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/sibiravtokar/",
+  "name": "СибирьАвтоКар",
+  "short_name": "СибирьАвтоКар",
+  "description": "Сервисный центр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/sibiravtokar/",
+  "scope": "/s/sibiravtokar/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/sibiravtokar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/sibiravtokar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/sibiravtokar/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/sibiravtokar/book",
+      "icons": [
+        {
+          "src": "/s/sibiravtokar/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/sibiravtokar/my",
+      "icons": [
+        {
+          "src": "/s/sibiravtokar/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

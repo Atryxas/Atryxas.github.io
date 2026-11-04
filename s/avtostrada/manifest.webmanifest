@@ -1,0 +1,60 @@
+{
+  "id": "/s/avtostrada/",
+  "name": "Автострада",
+  "short_name": "Автострада",
+  "description": "Автокомплекс: ремонт, кузов и детейлинг",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/avtostrada/",
+  "scope": "/s/avtostrada/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/avtostrada/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtostrada/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtostrada/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/avtostrada/book",
+      "icons": [
+        {
+          "src": "/s/avtostrada/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/avtostrada/my",
+      "icons": [
+        {
+          "src": "/s/avtostrada/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/pioner/",
+  "name": "Пионер",
+  "short_name": "Пионер",
+  "description": "СТО в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/pioner/",
+  "scope": "/s/pioner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/pioner/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/pioner/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/pioner/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/pioner/book",
+      "icons": [
+        {
+          "src": "/s/pioner/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/pioner/my",
+      "icons": [
+        {
+          "src": "/s/pioner/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

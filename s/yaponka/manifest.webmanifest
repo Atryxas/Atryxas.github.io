@@ -1,0 +1,60 @@
+{
+  "id": "/s/yaponka/",
+  "name": "ЯПОНКА",
+  "short_name": "ЯПОНКА",
+  "description": "Компания по продаже и установке контрактных автозапчастей из Японии в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/yaponka/",
+  "scope": "/s/yaponka/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/yaponka/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/yaponka/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/yaponka/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/yaponka/book",
+      "icons": [
+        {
+          "src": "/s/yaponka/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/yaponka/my",
+      "icons": [
+        {
+          "src": "/s/yaponka/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

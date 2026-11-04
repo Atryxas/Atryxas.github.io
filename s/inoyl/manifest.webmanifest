@@ -1,0 +1,60 @@
+{
+  "id": "/s/inoyl/",
+  "name": "ИНОЙЛ",
+  "short_name": "ИНОЙЛ",
+  "description": "Сеть автоцентров по продаже и замене оригинальных технических жидкостей в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/inoyl/",
+  "scope": "/s/inoyl/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/inoyl/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/inoyl/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/inoyl/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/inoyl/book",
+      "icons": [
+        {
+          "src": "/s/inoyl/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/inoyl/my",
+      "icons": [
+        {
+          "src": "/s/inoyl/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

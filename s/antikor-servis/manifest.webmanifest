@@ -1,0 +1,60 @@
+{
+  "id": "/s/antikor-servis/",
+  "name": "Антикор-Сервис",
+  "short_name": "Антикор-Сервис",
+  "description": "Автотехцентр полного цикла в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/antikor-servis/",
+  "scope": "/s/antikor-servis/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/antikor-servis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/antikor-servis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/antikor-servis/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/antikor-servis/book",
+      "icons": [
+        {
+          "src": "/s/antikor-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/antikor-servis/my",
+      "icons": [
+        {
+          "src": "/s/antikor-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

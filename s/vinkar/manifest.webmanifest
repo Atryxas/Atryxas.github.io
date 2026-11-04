@@ -1,0 +1,60 @@
+{
+  "id": "/s/vinkar/",
+  "name": "Винкар",
+  "short_name": "Винкар",
+  "description": "Автомаркет в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/vinkar/",
+  "scope": "/s/vinkar/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/vinkar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/vinkar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/vinkar/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/vinkar/book",
+      "icons": [
+        {
+          "src": "/s/vinkar/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/vinkar/my",
+      "icons": [
+        {
+          "src": "/s/vinkar/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

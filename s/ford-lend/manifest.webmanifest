@@ -1,0 +1,60 @@
+{
+  "id": "/s/ford-lend/",
+  "name": "Форд-Лэнд",
+  "short_name": "Форд-Лэнд",
+  "description": "​автоцентр по ремонту автомобилей в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/ford-lend/",
+  "scope": "/s/ford-lend/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/ford-lend/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/ford-lend/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/ford-lend/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/ford-lend/book",
+      "icons": [
+        {
+          "src": "/s/ford-lend/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/ford-lend/my",
+      "icons": [
+        {
+          "src": "/s/ford-lend/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

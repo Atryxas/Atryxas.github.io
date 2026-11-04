@@ -1,0 +1,60 @@
+{
+  "id": "/s/forsazh-auto/",
+  "name": "Форсаж-Auto",
+  "short_name": "Форсаж-Auto",
+  "description": "Автотехцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/forsazh-auto/",
+  "scope": "/s/forsazh-auto/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/forsazh-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/forsazh-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/forsazh-auto/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/forsazh-auto/book",
+      "icons": [
+        {
+          "src": "/s/forsazh-auto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/forsazh-auto/my",
+      "icons": [
+        {
+          "src": "/s/forsazh-auto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

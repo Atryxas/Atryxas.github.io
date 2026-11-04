@@ -1,0 +1,60 @@
+{
+  "id": "/s/as-avto/",
+  "name": "Ас-Авто",
+  "short_name": "Ас-Авто",
+  "description": "Автосервисная мастерская в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/as-avto/",
+  "scope": "/s/as-avto/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/as-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/as-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/as-avto/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/as-avto/book",
+      "icons": [
+        {
+          "src": "/s/as-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/as-avto/my",
+      "icons": [
+        {
+          "src": "/s/as-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

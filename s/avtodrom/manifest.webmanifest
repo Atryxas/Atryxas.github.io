@@ -1,0 +1,60 @@
+{
+  "id": "/s/avtodrom/",
+  "name": "Автодром",
+  "short_name": "Автодром",
+  "description": "Автотехцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/avtodrom/",
+  "scope": "/s/avtodrom/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/avtodrom/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtodrom/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/avtodrom/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/avtodrom/book",
+      "icons": [
+        {
+          "src": "/s/avtodrom/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/avtodrom/my",
+      "icons": [
+        {
+          "src": "/s/avtodrom/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

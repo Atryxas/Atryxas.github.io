@@ -1,0 +1,60 @@
+{
+  "id": "/s/okayama/",
+  "name": "Окаяма",
+  "short_name": "Окаяма",
+  "description": "Торгово-сервисная компания в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/okayama/",
+  "scope": "/s/okayama/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/okayama/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/okayama/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/okayama/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/okayama/book",
+      "icons": [
+        {
+          "src": "/s/okayama/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/okayama/my",
+      "icons": [
+        {
+          "src": "/s/okayama/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

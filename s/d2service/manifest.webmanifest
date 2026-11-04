@@ -1,0 +1,60 @@
+{
+  "id": "/s/d2service/",
+  "name": "Д2 Сервис",
+  "short_name": "Д2 Сервис",
+  "description": "Автоэлектрика, диагностика и программирование",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/d2service/",
+  "scope": "/s/d2service/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/d2service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/d2service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/d2service/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/d2service/book",
+      "icons": [
+        {
+          "src": "/s/d2service/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/d2service/my",
+      "icons": [
+        {
+          "src": "/s/d2service/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

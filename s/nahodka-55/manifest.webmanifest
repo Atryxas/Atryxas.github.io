@@ -1,0 +1,60 @@
+{
+  "id": "/s/nahodka-55/",
+  "name": "Находка 55",
+  "short_name": "Находка 55",
+  "description": "Техцентр по продаже контрактных автозапчастей и обслуживанию автомобилей из Японии в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/nahodka-55/",
+  "scope": "/s/nahodka-55/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/nahodka-55/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/nahodka-55/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/nahodka-55/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/nahodka-55/book",
+      "icons": [
+        {
+          "src": "/s/nahodka-55/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/nahodka-55/my",
+      "icons": [
+        {
+          "src": "/s/nahodka-55/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

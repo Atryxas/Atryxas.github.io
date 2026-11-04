@@ -1,0 +1,60 @@
+{
+  "id": "/s/a-s-servis/",
+  "name": "А/С Сервис",
+  "short_name": "А/С Сервис",
+  "description": "Автоцентр в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/a-s-servis/",
+  "scope": "/s/a-s-servis/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/a-s-servis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/a-s-servis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/a-s-servis/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/a-s-servis/book",
+      "icons": [
+        {
+          "src": "/s/a-s-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/a-s-servis/my",
+      "icons": [
+        {
+          "src": "/s/a-s-servis/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

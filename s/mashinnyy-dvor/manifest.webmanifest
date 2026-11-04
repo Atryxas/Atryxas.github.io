@@ -1,0 +1,60 @@
+{
+  "id": "/s/mashinnyy-dvor/",
+  "name": "Машинный двор",
+  "short_name": "Машинный двор",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/mashinnyy-dvor/",
+  "scope": "/s/mashinnyy-dvor/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/mashinnyy-dvor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/mashinnyy-dvor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/mashinnyy-dvor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/mashinnyy-dvor/book",
+      "icons": [
+        {
+          "src": "/s/mashinnyy-dvor/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/mashinnyy-dvor/my",
+      "icons": [
+        {
+          "src": "/s/mashinnyy-dvor/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

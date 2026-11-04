@@ -1,0 +1,60 @@
+{
+  "id": "/s/toyoda-na-gertsena/",
+  "name": "Toyoda на Герцена",
+  "short_name": "Toyoda",
+  "description": "Автосервис и магазин по продаже автозапчастей для японских автомобилей в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/toyoda-na-gertsena/",
+  "scope": "/s/toyoda-na-gertsena/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/toyoda-na-gertsena/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/toyoda-na-gertsena/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/toyoda-na-gertsena/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/toyoda-na-gertsena/book",
+      "icons": [
+        {
+          "src": "/s/toyoda-na-gertsena/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/toyoda-na-gertsena/my",
+      "icons": [
+        {
+          "src": "/s/toyoda-na-gertsena/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/hondateh/",
+  "name": "ХондаТех",
+  "short_name": "ХондаТех",
+  "description": "СТО в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/hondateh/",
+  "scope": "/s/hondateh/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/hondateh/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/hondateh/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/hondateh/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/hondateh/book",
+      "icons": [
+        {
+          "src": "/s/hondateh/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/hondateh/my",
+      "icons": [
+        {
+          "src": "/s/hondateh/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

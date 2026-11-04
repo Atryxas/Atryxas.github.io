@@ -1,0 +1,60 @@
+{
+  "id": "/s/doktor-bents/",
+  "name": "Доктор Бенц",
+  "short_name": "Доктор Бенц",
+  "description": "СТО в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/doktor-bents/",
+  "scope": "/s/doktor-bents/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/doktor-bents/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/doktor-bents/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/doktor-bents/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/doktor-bents/book",
+      "icons": [
+        {
+          "src": "/s/doktor-bents/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/doktor-bents/my",
+      "icons": [
+        {
+          "src": "/s/doktor-bents/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "/s/pnevmolab/",
+  "name": "ПневмоЛаб",
+  "short_name": "ПневмоЛаб",
+  "description": "Автосервис в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/pnevmolab/",
+  "scope": "/s/pnevmolab/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/pnevmolab/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/pnevmolab/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/pnevmolab/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/pnevmolab/book",
+      "icons": [
+        {
+          "src": "/s/pnevmolab/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/pnevmolab/my",
+      "icons": [
+        {
+          "src": "/s/pnevmolab/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

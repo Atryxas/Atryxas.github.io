@@ -1,0 +1,60 @@
+{
+  "id": "/s/forvard-avto/",
+  "name": "Форвард-Авто",
+  "short_name": "Форвард-Авто",
+  "description": "Официальный дилер ГАЗ в Омске",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "/s/forvard-avto/",
+  "scope": "/s/forvard-avto/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/s/forvard-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/forvard-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/forvard-avto/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записаться",
+      "url": "/s/forvard-avto/book",
+      "icons": [
+        {
+          "src": "/s/forvard-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Моя запись",
+      "url": "/s/forvard-avto/my",
+      "icons": [
+        {
+          "src": "/s/forvard-avto/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
